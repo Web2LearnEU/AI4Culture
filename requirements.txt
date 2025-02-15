@@ -5,6 +5,7 @@ certifi==2025.1.31
 cffi==1.17.1
 chardet==3.0.4
 charset-normalizer==3.4.1
+click==8.1.8
 compressed-rtf==1.0.6
 cryptography==44.0.1
 docx2txt==0.8
@@ -12,7 +13,9 @@ ebcdic==1.1.1
 extract-msg==0.28.7
 idna==3.10
 IMAPClient==2.1.0
+joblib==1.4.2
 lxml==5.3.1
+nltk==3.9.1
 numpy==1.24.4
 olefile==0.47
 pandas==2.0.3
@@ -27,6 +30,7 @@ python-docx==1.1.2
 python-pptx==0.6.23
 pytz==2025.1
 rapidfuzz==3.9.7
+regex==2024.11.6
 requests==2.32.3
 six==1.12.0
 sortedcontainers==2.4.0
@@ -34,6 +38,7 @@ soupsieve==2.6
 SpeechRecognition==3.8.1
 textract==1.6.5
 thefuzz==0.22.1
+tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.1
 tzlocal==5.2
